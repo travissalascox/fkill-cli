@@ -53,6 +53,7 @@
 		"meow": "^14.0.0",
 		"num-sort": "^4.0.0",
 		"pid-port": "^2.0.0",
+		"process-exists": "^5.0.0",
 		"ps-list": "^9.0.0"
 	},
 	"devDependencies": {
@@ -61,7 +62,6 @@
 		"execa": "^9.6.0",
 		"get-port": "^7.1.0",
 		"noop-process": "^5.0.0",
-		"process-exists": "^5.0.0",
 		"xo": "^1.2.3"
 	}
 }
