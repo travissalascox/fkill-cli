@@ -1,10 +1,4 @@
-<h1 align="center">
-	<br>
-	<img width="360" src="https://cdn.jsdelivr.net/gh/sindresorhus/fkill@913dce9ae670cd12410f6a64eaf94d7e5f50ed69/media/logo.svg" alt="fkill">
-	<br>
-	<br>
-	<br>
-</h1>
+Why the fork. See https://github.com/travissalascox/fkill-cli/pull/1. Mostly just so that I can clone this down locally to whatever workstation I need and run `pnpm install .` and then `pnpm install -g .` on this without having to change the `package.json` file each time. Will definitely delete this if I am able to get a hold of the maintainer, or if they update the `package.json` before I am able to.
 
 > Fabulously kill processes. Cross-platform.
 
